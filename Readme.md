@@ -16,8 +16,7 @@ DevConnect is a full-stack web application where developers can sign up, create 
 
 ## 1. Clone the repository
 
-git clone https://github.com/yourusername/devconnect.git
-cd devconnect
+git clone https://github.com/pradyotsrivastava/dev-connect.git
 
 ## 2. Setup the backend
 
