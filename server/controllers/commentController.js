@@ -6,9 +6,6 @@ export const createComment = asyncHandler(async (req, res) => {
   const projectId = req.params.projectId;
   const { text } = req.body;
 
-  console.log(projectId);
-  console.log(text);
-
   const comment = await Comment.create({
     user: req.user._id,
     project: projectId,

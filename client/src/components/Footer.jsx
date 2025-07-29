@@ -1,4 +1,3 @@
-// Footer.jsx
 import { BsGlobe2, BsPhone } from "react-icons/bs";
 import { FaGithub, FaLaptop, FaLinkedin } from "react-icons/fa";
 import { HiMail, HiOutlineLocationMarker } from "react-icons/hi";

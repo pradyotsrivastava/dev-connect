@@ -48,7 +48,6 @@ const CommentsSlider = ({ projectId, currentUserId, onClose }) => {
     const fetchComments = async () => {
       try {
         setLoading(true);
-        console.log("Sending token:", token);
 
         const { data } = await axios.get(
           `${BASE_URL}/api/comments/get-comments/${projectId}`
