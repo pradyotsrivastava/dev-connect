@@ -6,9 +6,9 @@ DevConnect is a full-stack web application where developers can sign up, create 
 
 ## 🌐 Live Demo
 
-🔗 Frontend: [https://devconnect-client.vercel.app](https://devconnect-client.vercel.app)  
-🔗 Backend API: [https://devconnect-server.onrender.com](https://devconnect-server.onrender.com)  
-🔗 GitHub Repo: [https://github.com/yourusername/devconnect](https://github.com/yourusername/devconnect)
+🔗 Frontend: [https://dev-connect-mern.vercel.app/](https://dev-connect-mern.vercel.app/)  
+🔗 Backend API: [https://dev-connect-server-beryl.vercel.app/](https://dev-connect-server-beryl.vercel.app/)  
+🔗 GitHub Repo: [https://github.com/pradyotsrivastava/dev-connect/](https://github.com/pradyotsrivastava/dev-connect/)
 
 ---
 
