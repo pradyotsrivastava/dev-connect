@@ -21,21 +21,27 @@ git clone https://github.com/pradyotsrivastava/dev-connect.git
 ## 2. Setup the backend
 
 cd server
+
 npm install
 
 - Create .env file inside /server:
 
 PORT=
+
 FRONTEND_URL=
+
 MONGO_URI=
+
 JWT_SECRET=
 
 - Run
+
   npm run dev
 
 ## 3. Setup the frontend
 
 cd ../client
+
 npm install
 
 - Create .env inside /client
