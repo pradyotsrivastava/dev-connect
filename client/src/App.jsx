@@ -28,7 +28,7 @@ const App = () => {
           <Route path="/all-users" element={<AllUsers />} />
         </Routes>
       </div>
-      <Footer />
+{/*       <Footer /> */}
     </Router>
   );
 };
